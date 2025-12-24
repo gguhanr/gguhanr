@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning MERN Stack DEV ...<br><br>👨‍💻 All of my projects are available at https://gguhanr.neocities.org/<br><br>📫 How to reach me ** mailto:gguhanr@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1pH3YU5QeIh66TzNEv39Swygzcin3U0fK/view?usp=drive_link
+🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://gguhanr.neocities.org/<br><br>📫 How to reach me ** mailto:gguhanr@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1pH3YU5QeIh66TzNEv39Swygzcin3U0fK/view?usp=drive_link
 
 
 ## 🌐 Socials:
