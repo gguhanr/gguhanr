@@ -1,5 +1,9 @@
 ## Hi there I am GUHAN.S 👋
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning MERN Stack DEV ...<br><br>👨‍💻 All of my projects are available at https://gguhanr.neocities.org/<br><br>📫 How to reach me ** mailto:gguhanr@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1pH3YU5QeIh66TzNEv39Swygzcin3U0fK/view?usp=drive_link
 
