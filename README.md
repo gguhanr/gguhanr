@@ -63,18 +63,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=gguhanr&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gguhanr&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gguhanr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gguhanr&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gguhanr&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=gguhanr&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
 <p align="center">
