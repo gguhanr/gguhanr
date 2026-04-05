@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Guhan%20S&fontAlign=48&fontAlignY=41&animation=twinkling&textBg=false" />
 ## Hi there I am GUHAN.S..... 👋
   
 <div align="center">  
