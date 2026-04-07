@@ -65,7 +65,7 @@
 # 📊 GitHub Stats:
 
 <p align="cenetr">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gguhanr&" alt="gguhanr" />
+  <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=gguhanr&" alt="gguhanr" />
 </p>
 
 <p align="center">
