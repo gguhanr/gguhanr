@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Guhan%20S&fontAlign=48&fontAlignY=41&animation=twinkling&textBg=false" />
+<img src="https://github.com/gguhanr/My-portfolio/blob/933ec5774049e8fa40597e462f199812827adee2/github-header-banner.png" />
 ## Hi there I am GUHAN.S..... 👋
   
 <div align="center">  
