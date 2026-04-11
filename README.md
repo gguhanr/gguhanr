@@ -1,16 +1,32 @@
-<img src="https://github.com/gguhanr/My-portfolio/blob/933ec5774049e8fa40597e462f199812827adee2/github-header-banner.png" />
-## Hi there I am GUHAN.S..... 👋
-  
-<div align="center">  
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Guhan%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-# 💫 About Me:
-🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://gguhanr.neocities.org/<br><br>📫 How to reach me ** mailto:gguhanr@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1pH3YU5QeIh66TzNEv39Swygzcin3U0fK/view?usp=drive_link
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=gguhanr">
+    <img src="https://komarev.com/ghpvc/?username=gguhanr&label=Profile%20views&color=00FFFF&style=flat-square" alt="gguhanr's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
+- 🔭 I’m currently Actively seeking new opportunities.
+- 🌱 I’m currently learning Java.. ...
+- 👨‍💻 All of my projects are available at  https://gguhanr.neocities.org/
+- 📫 How to reach me ** mailto:gguhanr@gmail.com
+- 📄 Know about my experiences https://drive.google.com/file/d/1pH3YU5QeIh66TzNEv39Swygzcin3U0fK/view?usp=drive_link
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/madtamizha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gguhanr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/gguhanr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gguhanr@gmail.com) 
+## 🧠 My Focus Areas
+- Web development
+- Full stack developer
+- AI prompt engineer
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/gguhanr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gguhanr&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="gguhanr's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=gguhanr&theme=dracula&hide_border=true&cache_seconds=86400" alt="gguhanr's GitHub Streak" width="49%" />
+</p>
 
 # 💻 Tech Stack:
 
@@ -62,7 +78,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-# 📊 GitHub Stats:
-<a align="center" href="http://www.github.com/gguhanr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gguhanr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+## 🔗 Connect with Me
+<p align="center"> <a href="https://x.com/https://x.com/gguhanr" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:gguhanr@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://gguhanr.neocities.org/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
