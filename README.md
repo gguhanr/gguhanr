@@ -21,12 +21,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/gguhanr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gguhanr&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="gguhanr's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=gguhanr&theme=dracula&hide_border=true&cache_seconds=86400" alt="gguhanr's GitHub Streak" width="49%" />
-</p>
+
 
 # 💻 Tech Stack:
 
