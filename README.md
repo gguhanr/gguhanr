@@ -79,7 +79,19 @@
 
 
 ## 🔗 Connect with Me
-
+<p align="center">
+  <a href="https://x.com/gguhanr" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gguhanr@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gguhanr.neocities.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
+  </a>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
