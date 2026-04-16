@@ -79,17 +79,25 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://x.com/gguhanr" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gguhanr@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gguhanr.neocities.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://x.com/gguhanr">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:gguhanr@gmail.com">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gguhanr.neocities.org/">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
