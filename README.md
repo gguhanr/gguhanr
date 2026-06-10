@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=gguhanr">
     <img src="https://komarev.com/ghpvc/?username=gguhanr&label=Profile%20views&color=00FFFF&style=flat-square" alt="gguhanr's profile views" />
-  </a>
+  </a>  
 </p>
 
 ## 📌 About Me
