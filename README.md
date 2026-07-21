@@ -21,7 +21,7 @@
     
 
 ## 📊 GitHub Stats & Trophies
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gguhanr" alt="gguhanr" /></p>
+![gguhanr's streak](https://streak-stats.demolab.com/?user=gguhanr)
 
 # 💻 Tech Stack:
 <div align="left">
